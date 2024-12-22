@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.main-heading{
+    font-size: 66px;
+}
+.main{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.main-image{
+    width: 600px;
+}
+.download-app{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.explore-food{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.span{
+    color: #FF6838;
+}

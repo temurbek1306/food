@@ -1,0 +1,27 @@
+.img-watch{
+    width: 20px;
+}
+.section{
+    display: flex;
+}
+.heading{
+    margin-top: 150px;
+    text-align: left;
+    width: 80%;
+}
+.section p{
+    width: 360px;
+}
+.watch{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+.btn-see{
+    margin-top: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 0;
+}

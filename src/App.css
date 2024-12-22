@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+h1{
+  color: red;
+}
+.card-wrapper{
+  background-color: #F7F8FD;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.our-popular{
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 36px;
+}
+.our-popular span{
+  color: #FF6838;
+}
+.card2-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.background{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,254,255,0.0846463585434174) 0%);
+}
+.carousel{
+  margin-left: 500px;
+  margin-top: 20px;
+  width: 200px;
+  height: 20px;
+}
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+.top-food{
+  padding-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 55px;
+}

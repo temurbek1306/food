@@ -1,0 +1,12 @@
+.footer{
+    margin-top: 50px;
+    display: flex;
+    gap: 120px;
+    padding-bottom: 50px;
+}
+.list1{
+    line-height: 30px;
+}
+.list2{
+    line-height: 30px;
+}

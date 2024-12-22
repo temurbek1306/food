@@ -1,0 +1,16 @@
+.mobile-app{
+    display: flex;
+    align-items: center;
+    gap: 120px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.heading2{
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+}
+.mobile-app p{
+    width: 400px;
+    margin-bottom: 30px;
+}

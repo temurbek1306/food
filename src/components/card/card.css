@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #FF6838;
+    cursor: pointer;
+    width: 200px;
+    justify-content: center;
+    padding: 5px 0;
+}
+.card:hover{
+    background-color: #FF6838;
+    color: white;
+}
+.card:nth-child(1){
+    background-color: #FF6838;
+    color: white;
+}
+.img{
+    width: 50px;
+}

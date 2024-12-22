@@ -1,0 +1,40 @@
+.small-text{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+.subscribe{
+    padding-top: 50px;
+    background-color: #ff7a50;
+    color: white;
+    border-radius: 15px;
+}
+.form{
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+    align-items: center;
+    margin-left: 130px;
+}
+#email{
+    width: 700px;
+    border: none;
+    outline: none;
+    padding: 20px 30px;
+    border-radius: 50px;
+}
+.btn-section4{
+    position: relative;
+    right: 140px;
+    height: 40px;
+    padding: 0 30px;
+    border-radius: 50px;
+}
+.btn-section4:hover{
+    position: relative;
+    right: 140px;
+    height: 40px;
+    padding: 0 30px;
+    border-radius: 50px;
+}

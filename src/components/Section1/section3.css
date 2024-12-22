@@ -1,0 +1,31 @@
+.client-saying h2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.client{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.client q{
+    display: inline-block;
+    width: 500px;
+    line-height: 30px;
+}
+.client h3{
+    color: #ff6838;
+    margin-top: 30px;
+}
+.client1{
+    display: flex;
+    gap: 250px;
+    align-items: center;
+}
+.fa-solid:nth-child(2){
+    color: #ff6838;
+}
+.arrow{
+    display: flex;
+    gap: 50px;
+}
